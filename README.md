@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Python+Developer;Building+Real+Projects;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Python+Developer;Building+RealWorld+Projects;"/>
 </p>
 
 ---
@@ -51,10 +51,5 @@
 
 ---
 
-## ⚡ Fun Fact
-
-💡 I turn ideas into real working applications using code.
-
----
 
 ⭐ *“Consistency is what turns code into career.”*
