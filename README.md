@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Jagosh</h1>
 
-<h3 align="center">🚀 Machine Learning Developer | Python Enthusiast</h3>
-
 <p align="center">
   💻 Turning ideas into real-world applications 🚀
 </p>
@@ -49,7 +47,6 @@
 ## 🔥 Featured Projects
 
 * 🧠 [Brain Tumor Detection](https://github.com/jagoshsam/brain-tumor-detection)
-* 🌦️ Weather App (Android - Kotlin)
 * 📊 [Academic Risk Prediction System](https://github.com/jagoshsam/academic-risk-monitoring-system)
 * 🏥 [Hospital Patient Management System](https://github.com/jagoshsam/hospital-patient-report-management-system)
 
@@ -58,12 +55,6 @@
 ## 📫 Contact
 
 * 📧 [jagoshmathias@gmail.com](mailto:jagoshmathias@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-💡 I turn ideas into real working applications using code.
 
 ---
 
