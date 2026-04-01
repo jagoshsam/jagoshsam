@@ -36,14 +36,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jagoshsam&theme=tokyonight" />
 </p>
----
+
 
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoshsam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoshsam&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook" />
 </p>
----
 
 ## 🔥 Contribution Streak
 
