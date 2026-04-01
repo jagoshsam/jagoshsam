@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Sam Jagosh</h1>
+
+<p align="center">
+  💻 Turning ideas into real-world applications 🚀
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Python+Developer;Building+Real+Projects;Future+AI+Engineer" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -15,12 +25,13 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,kotlin,flask,tensorflow,git,github" />
 </p>
 
+---
 
 ## 🔥 Projects
 
-- 🧠 [Brain Tumor Detection](https://github.com/jagoshsam/brain-tumor-detection)
-- 📊 [Academic Risk Prediction System](https://github.com/jagoshsam/academic-risk-monitoring-system)
-- 🏥 [Hospital Patient Management System](https://github.com/jagoshsam/hospital-patient-report-management-system)
+* 🧠 [Brain Tumor Detection](https://github.com/jagoshsam/brain-tumor-detection)
+* 📊 [Academic Risk Prediction System](https://github.com/jagoshsam/academic-risk-monitoring-system)
+* 🏥 [Hospital Patient Management System](https://github.com/jagoshsam/hospital-patient-report-management-system)
 
 ---
 
@@ -34,29 +45,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagoshsam&theme=radical" />
 </p>
 
+---
+
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoshsam&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoshsam&layout=compact&theme=radical&langs_count=6" />
 </p>
-
-## 📫 Connect With Me
-
-* 📧  [jagoshmathias@gmail.com](mailto:jagoshmathias@gmail.com)  
-
- 
 
 ---
 
- 
+## 📫 Connect With Me
 
-## ⚡ Fun Fact
-
-💡 I turn ideas into real working applications using code.
-
-  
-
-  
+* 📧 [jagoshmathias@gmail.com](mailto:jagoshmathias@gmail.com)
 
 ---
 
