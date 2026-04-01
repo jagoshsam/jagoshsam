@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sam Jagosh</h1>
 
-<h3 align="center">🚀 Machine Learning Enthusias | Python Developer</h3>
+<h3 align="center">🚀 Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
   💻 Turning ideas into real-world applications 🚀
