@@ -1,4 +1,6 @@
-<h1 align="center">Hi,I'm Sam Jagosh</h1>
+<h1 align="center">Hi 👋, I'm Sam Jagosh</h1>
+
+<h3 align="center">🚀 Machine Learning Developer | Python Enthusiast</h3>
 
 <p align="center">
   💻 Turning ideas into real-world applications 🚀
@@ -19,45 +21,49 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,kotlin,flask,tensorflow,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,kotlin,flask,tensorflow,mongodb,mysql,git,github" />
 </p>
-
----
-
-## 🔥 Projects
-
-* 🧠 [Brain Tumor Detection](https://github.com/jagoshsam/brain-tumor-detection)
-* 📊 [Academic Risk Prediction System](https://github.com/jagoshsam/academic-risk-monitoring-system)
-* 🏥 [Hospital Patient Management System](https://github.com/jagoshsam/hospital-patient-report-management-system)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagoshsam&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jagoshsam&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagoshsam&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoshsam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoshsam&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=jagoshsam&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Featured Projects
+
+* 🧠 [Brain Tumor Detection](https://github.com/jagoshsam/brain-tumor-detection)
+* 🌦️ Weather App (Android - Kotlin)
+* 📊 [Academic Risk Prediction System](https://github.com/jagoshsam/academic-risk-monitoring-system)
+* 🏥 [Hospital Patient Management System](https://github.com/jagoshsam/hospital-patient-report-management-system)
+
+---
+
+## 📫 Contact
 
 * 📧 [jagoshmathias@gmail.com](mailto:jagoshmathias@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+💡 I turn ideas into real working applications using code.
 
 ---
 
